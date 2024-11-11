@@ -1,1 +1,1 @@
-This is just a quick test to learn Git
+Repositorio para mis tareas
